@@ -1,0 +1,66 @@
+body{
+    background-color: rgb(224, 217, 207);
+    font-family: 'Trebuchet MS',Tahoma,Helvetica,Verdana;
+}
+
+.header{
+    height: 20em;
+    background-image: url(../imgs/header.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.header h1{
+    margin: 0px;
+    padding-top: 100px;
+    color: #cad0df;
+    text-align: center;
+    font-size: 60px;
+    text-shadow: 1px 1px 2px black;
+}
+
+.header p{
+    color: white;
+    text-align: center;
+}
+
+.basses{
+    width: 80%;
+    margin: auto;
+}
+
+.basses td{
+    width: 50%;
+}
+
+.basses img{
+    margin: 1em;
+    width: 100%;
+    border-radius: 25px;
+    box-shadow: 8px 5px 20px;
+}
+
+.basses p{
+    padding-left: 5em;
+
+}
+
+#price{
+    font-size: 20px;
+    font-weight: bold;
+    color: red;
+}
+
+.basses h1{
+    padding-left: 2em;
+
+}
+
+.footer{
+    background-color: green;
+    text-align: center;
+}
+
+.footer h3{
+    margin: 0px;
+}
